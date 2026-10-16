@@ -1,0 +1,172 @@
+2026-09-09 15:15:17,200 - agent - INFO - vector_store.py:88 - [加载知识库]data\扫地机器人100问.pdf内容加载成功
+2026-09-09 15:15:17,202 - agent - INFO - vector_store.py:88 - [加载知识库]data\扫地机器人100问2.txt内容加载成功
+2026-09-09 15:15:17,204 - agent - INFO - vector_store.py:88 - [加载知识库]data\扫拖一体机器人100问.txt内容加载成功
+2026-09-09 15:15:17,207 - agent - INFO - vector_store.py:88 - [加载知识库]data\故障排除.txt内容加载成功
+2026-09-09 15:15:17,209 - agent - INFO - vector_store.py:88 - [加载知识库]data\维护保养.txt内容加载成功
+2026-09-09 15:15:17,211 - agent - INFO - vector_store.py:88 - [加载知识库]data\选购指南.txt内容加载成功
+2026-09-09 15:15:46,968 - agent - INFO - vector_store.py:68 - [加载知识库]data\扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-09-09 15:15:46,969 - agent - INFO - vector_store.py:68 - [加载知识库]data\扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-09-09 15:15:46,969 - agent - INFO - vector_store.py:68 - [加载知识库]data\扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-09-09 15:15:46,970 - agent - INFO - vector_store.py:68 - [加载知识库]data\故障排除.txt内容已经存在知识库内，跳过
+2026-09-09 15:15:46,970 - agent - INFO - vector_store.py:68 - [加载知识库]data\维护保养.txt内容已经存在知识库内，跳过
+2026-09-09 15:15:46,971 - agent - INFO - vector_store.py:68 - [加载知识库]data\选购指南.txt内容已经存在知识库内，跳过
+2026-09-09 15:17:36,840 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-09-09 15:17:36,841 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-09-09 15:17:36,842 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-09-09 15:17:36,843 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\故障排除.txt内容已经存在知识库内，跳过
+2026-09-09 15:17:36,844 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\维护保养.txt内容已经存在知识库内，跳过
+2026-09-09 15:17:36,844 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\选购指南.txt内容已经存在知识库内，跳过
+2026-09-09 15:20:36,445 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-09-09 15:20:36,446 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-09-09 15:20:36,447 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-09-09 15:20:36,447 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\故障排除.txt内容已经存在知识库内，跳过
+2026-09-09 15:20:36,447 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\维护保养.txt内容已经存在知识库内，跳过
+2026-09-09 15:20:36,448 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\选购指南.txt内容已经存在知识库内，跳过
+2026-09-09 15:22:13,446 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-09-09 15:22:13,447 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-09-09 15:22:13,448 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-09-09 15:22:13,449 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\故障排除.txt内容已经存在知识库内，跳过
+2026-09-09 15:22:13,449 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\维护保养.txt内容已经存在知识库内，跳过
+2026-09-09 15:22:13,450 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\选购指南.txt内容已经存在知识库内，跳过
+2026-09-09 15:22:21,956 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-09-09 15:22:21,957 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-09-09 15:22:21,958 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-09-09 15:22:21,958 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\故障排除.txt内容已经存在知识库内，跳过
+2026-09-09 15:22:21,959 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\维护保养.txt内容已经存在知识库内，跳过
+2026-09-09 15:22:21,959 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\选购指南.txt内容已经存在知识库内，跳过
+2026-09-09 15:22:42,306 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-09-09 15:22:42,307 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-09-09 15:22:42,308 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-09-09 15:22:42,308 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\故障排除.txt内容已经存在知识库内，跳过
+2026-09-09 15:22:42,309 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\维护保养.txt内容已经存在知识库内，跳过
+2026-09-09 15:22:42,309 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\选购指南.txt内容已经存在知识库内，跳过
+2026-09-09 15:23:57,146 - agent - ERROR - vector_store.py:91 - [加载知识库]E:\code\AI_Agent_Project\data\扫地机器人100问.pdf内容加载失败：Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "E:\code\AI_Agent_Project\rag\vector_store.py", line 72, in load_document
+    documents: list[Document] = get_file_documents(path)
+                                ~~~~~~~~~~~~~~~~~~^^^^^^
+  File "E:\code\AI_Agent_Project\rag\vector_store.py", line 55, in get_file_documents
+    return pdf_loader(read_path)
+  File "E:\code\AI_Agent_Project\utils\file_handler.py", line 48, in pdf_loader
+    return PyPDFLoader(filepath, passwd).load()
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "d:\python\Lib\site-packages\langchain_core\document_loaders\base.py", line 43, in load
+    return list(self.lazy_load())
+  File "d:\python\Lib\site-packages\langchain_community\document_loaders\pdf.py", line 305, in lazy_load
+    yield from self.parser.lazy_parse(blob)
+  File "d:\python\Lib\site-packages\langchain_community\document_loaders\parsers\pdf.py", line 383, in lazy_parse
+    pdf_reader = pypdf.PdfReader(pdf_file_obj, password=self.password)
+  File "d:\python\Lib\site-packages\pypdf\_reader.py", line 151, in __init__
+    self._initialize_stream(stream)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "d:\python\Lib\site-packages\pypdf\_reader.py", line 175, in _initialize_stream
+    self.read(stream)
+    ~~~~~~~~~^^^^^^^^
+  File "d:\python\Lib\site-packages\pypdf\_reader.py", line 684, in read
+    self._find_eof_marker(stream)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "d:\python\Lib\site-packages\pypdf\_reader.py", line 797, in _find_eof_marker
+    line = read_previous_line(stream)
+  File "d:\python\Lib\site-packages\pypdf\_utils.py", line 339, in read_previous_line
+    raise PdfStreamError(STREAM_TRUNCATED_PREMATURELY)
+pypdf.errors.PdfStreamError: Stream has ended unexpectedly
+2026-09-09 15:23:57,162 - agent - INFO - vector_store.py:88 - [加载知识库]E:\code\AI_Agent_Project\data\扫地机器人100问2.txt内容加载成功
+2026-09-09 15:23:57,172 - agent - INFO - vector_store.py:88 - [加载知识库]E:\code\AI_Agent_Project\data\扫拖一体机器人100问.txt内容加载成功
+2026-09-09 15:23:57,183 - agent - INFO - vector_store.py:88 - [加载知识库]E:\code\AI_Agent_Project\data\故障排除.txt内容加载成功
+2026-09-09 15:23:57,195 - agent - INFO - vector_store.py:88 - [加载知识库]E:\code\AI_Agent_Project\data\维护保养.txt内容加载成功
+2026-09-09 15:23:57,208 - agent - INFO - vector_store.py:88 - [加载知识库]E:\code\AI_Agent_Project\data\选购指南.txt内容加载成功
+2026-09-09 15:27:22,541 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-09-09 15:27:22,542 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-09-09 15:27:22,542 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-09-09 15:27:22,543 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\故障排除.txt内容已经存在知识库内，跳过
+2026-09-09 15:27:22,543 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\维护保养.txt内容已经存在知识库内，跳过
+2026-09-09 15:27:22,544 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\选购指南.txt内容已经存在知识库内，跳过
+2026-09-09 15:28:00,341 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-09-09 15:28:00,342 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-09-09 15:28:00,343 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-09-09 15:28:00,343 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\故障排除.txt内容已经存在知识库内，跳过
+2026-09-09 15:28:00,344 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\维护保养.txt内容已经存在知识库内，跳过
+2026-09-09 15:28:00,344 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\选购指南.txt内容已经存在知识库内，跳过
+2026-09-09 15:28:10,889 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-09-09 15:28:10,890 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-09-09 15:28:10,891 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-09-09 15:28:10,891 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\故障排除.txt内容已经存在知识库内，跳过
+2026-09-09 15:28:10,892 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\维护保养.txt内容已经存在知识库内，跳过
+2026-09-09 15:28:10,892 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\选购指南.txt内容已经存在知识库内，跳过
+2026-09-09 15:29:34,505 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-09-09 15:29:34,506 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-09-09 15:29:34,507 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-09-09 15:29:34,507 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\故障排除.txt内容已经存在知识库内，跳过
+2026-09-09 15:29:34,508 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\维护保养.txt内容已经存在知识库内，跳过
+2026-09-09 15:29:34,509 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\选购指南.txt内容已经存在知识库内，跳过
+2026-09-09 16:17:02,773 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-09-09 16:17:02,774 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-09-09 16:17:02,774 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-09-09 16:17:02,775 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\故障排除.txt内容已经存在知识库内，跳过
+2026-09-09 16:17:02,775 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\维护保养.txt内容已经存在知识库内，跳过
+2026-09-09 16:17:02,776 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\选购指南.txt内容已经存在知识库内，跳过
+2026-09-09 16:17:30,324 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-09-09 16:17:30,325 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-09-09 16:17:30,325 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-09-09 16:17:30,326 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\故障排除.txt内容已经存在知识库内，跳过
+2026-09-09 16:17:30,326 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\维护保养.txt内容已经存在知识库内，跳过
+2026-09-09 16:17:30,327 - agent - INFO - vector_store.py:68 - [加载知识库]E:\code\AI_Agent_Project\data\选购指南.txt内容已经存在知识库内，跳过
+2026-09-09 16:18:50,260 - agent - INFO - vector_store.py:69 - [加载知识库]E:\code\AI_Agent_Project\data\扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-09-09 16:18:50,261 - agent - INFO - vector_store.py:69 - [加载知识库]E:\code\AI_Agent_Project\data\扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-09-09 16:18:50,262 - agent - INFO - vector_store.py:69 - [加载知识库]E:\code\AI_Agent_Project\data\扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-09-09 16:18:50,262 - agent - INFO - vector_store.py:69 - [加载知识库]E:\code\AI_Agent_Project\data\故障排除.txt内容已经存在知识库内，跳过
+2026-09-09 16:18:50,263 - agent - INFO - vector_store.py:69 - [加载知识库]E:\code\AI_Agent_Project\data\维护保养.txt内容已经存在知识库内，跳过
+2026-09-09 16:18:50,264 - agent - INFO - vector_store.py:69 - [加载知识库]E:\code\AI_Agent_Project\data\选购指南.txt内容已经存在知识库内，跳过
+2026-09-09 16:19:08,603 - agent - INFO - vector_store.py:69 - [加载知识库]E:\code\AI_Agent_Project\data\扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-09-09 16:19:40,792 - agent - INFO - vector_store.py:69 - [加载知识库]E:\code\AI_Agent_Project\data\扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-09-09 16:21:24,325 - agent - INFO - vector_store.py:69 - [加载知识库]E:\code\AI_Agent_Project\data\扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-09-09 16:21:26,160 - agent - INFO - vector_store.py:69 - [加载知识库]E:\code\AI_Agent_Project\data\故障排除.txt内容已经存在知识库内，跳过
+2026-09-09 16:21:27,060 - agent - INFO - vector_store.py:69 - [加载知识库]E:\code\AI_Agent_Project\data\维护保养.txt内容已经存在知识库内，跳过
+2026-09-09 16:21:28,155 - agent - INFO - vector_store.py:69 - [加载知识库]E:\code\AI_Agent_Project\data\选购指南.txt内容已经存在知识库内，跳过
+2026-09-09 17:00:14,928 - agent - INFO - vector_store.py:69 - [加载知识库]E:\code\AI_Agent_Project\data\扫地机器人100问.pdf内容已经存在知识库内，跳过
+2026-09-09 17:00:14,929 - agent - INFO - vector_store.py:69 - [加载知识库]E:\code\AI_Agent_Project\data\扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-09-09 17:00:14,930 - agent - INFO - vector_store.py:69 - [加载知识库]E:\code\AI_Agent_Project\data\扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-09-09 17:00:14,931 - agent - INFO - vector_store.py:69 - [加载知识库]E:\code\AI_Agent_Project\data\故障排除.txt内容已经存在知识库内，跳过
+2026-09-09 17:00:14,931 - agent - INFO - vector_store.py:69 - [加载知识库]E:\code\AI_Agent_Project\data\维护保养.txt内容已经存在知识库内，跳过
+2026-09-09 17:00:14,932 - agent - INFO - vector_store.py:69 - [加载知识库]E:\code\AI_Agent_Project\data\选购指南.txt内容已经存在知识库内，跳过
+2026-09-09 17:01:08,167 - agent - ERROR - vector_store.py:92 - [加载知识库]E:\code\AI_Agent_Project\data\扫地机器人100问.pdf内容加载失败：Stream has ended unexpectedly
+Traceback (most recent call last):
+  File "E:\code\AI_Agent_Project\rag\vector_store.py", line 73, in load_document
+    documents: list[Document] = get_file_documents(path)
+                                ~~~~~~~~~~~~~~~~~~^^^^^^
+  File "E:\code\AI_Agent_Project\rag\vector_store.py", line 55, in get_file_documents
+    return pdf_loader(read_path)
+  File "E:\code\AI_Agent_Project\utils\file_handler.py", line 48, in pdf_loader
+    return PyPDFLoader(filepath, passwd).load()
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "d:\python\Lib\site-packages\langchain_core\document_loaders\base.py", line 43, in load
+    return list(self.lazy_load())
+  File "d:\python\Lib\site-packages\langchain_community\document_loaders\pdf.py", line 305, in lazy_load
+    yield from self.parser.lazy_parse(blob)
+  File "d:\python\Lib\site-packages\langchain_community\document_loaders\parsers\pdf.py", line 383, in lazy_parse
+    pdf_reader = pypdf.PdfReader(pdf_file_obj, password=self.password)
+  File "d:\python\Lib\site-packages\pypdf\_reader.py", line 151, in __init__
+    self._initialize_stream(stream)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "d:\python\Lib\site-packages\pypdf\_reader.py", line 175, in _initialize_stream
+    self.read(stream)
+    ~~~~~~~~~^^^^^^^^
+  File "d:\python\Lib\site-packages\pypdf\_reader.py", line 684, in read
+    self._find_eof_marker(stream)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "d:\python\Lib\site-packages\pypdf\_reader.py", line 797, in _find_eof_marker
+    line = read_previous_line(stream)
+  File "d:\python\Lib\site-packages\pypdf\_utils.py", line 339, in read_previous_line
+    raise PdfStreamError(STREAM_TRUNCATED_PREMATURELY)
+pypdf.errors.PdfStreamError: Stream has ended unexpectedly
+2026-09-09 17:01:09,400 - agent - INFO - vector_store.py:89 - [加载知识库]E:\code\AI_Agent_Project\data\扫地机器人100问2.txt内容加载成功
+2026-09-09 17:01:10,552 - agent - INFO - vector_store.py:89 - [加载知识库]E:\code\AI_Agent_Project\data\扫拖一体机器人100问.txt内容加载成功
+2026-09-09 17:01:11,163 - agent - INFO - vector_store.py:89 - [加载知识库]E:\code\AI_Agent_Project\data\故障排除.txt内容加载成功
+2026-09-09 17:01:11,709 - agent - INFO - vector_store.py:89 - [加载知识库]E:\code\AI_Agent_Project\data\维护保养.txt内容加载成功
+2026-09-09 17:01:12,282 - agent - INFO - vector_store.py:89 - [加载知识库]E:\code\AI_Agent_Project\data\选购指南.txt内容加载成功
+2026-09-09 17:10:17,155 - agent - INFO - vector_store.py:89 - [加载知识库]E:\code\AI_Agent_Project\data\扫地机器人100问.pdf内容加载成功
+2026-09-09 17:10:17,165 - agent - INFO - vector_store.py:69 - [加载知识库]E:\code\AI_Agent_Project\data\扫地机器人100问2.txt内容已经存在知识库内，跳过
+2026-09-09 17:10:17,166 - agent - INFO - vector_store.py:69 - [加载知识库]E:\code\AI_Agent_Project\data\扫拖一体机器人100问.txt内容已经存在知识库内，跳过
+2026-09-09 17:10:17,168 - agent - INFO - vector_store.py:69 - [加载知识库]E:\code\AI_Agent_Project\data\故障排除.txt内容已经存在知识库内，跳过
+2026-09-09 17:10:17,168 - agent - INFO - vector_store.py:69 - [加载知识库]E:\code\AI_Agent_Project\data\维护保养.txt内容已经存在知识库内，跳过
+2026-09-09 17:10:17,169 - agent - INFO - vector_store.py:69 - [加载知识库]E:\code\AI_Agent_Project\data\选购指南.txt内容已经存在知识库内，跳过
